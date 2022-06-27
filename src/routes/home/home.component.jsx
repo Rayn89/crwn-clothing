@@ -1,4 +1,4 @@
-import "../../components/category-item/category-item.styles.scss"
+// import "../../components/category-item/category-item.styles.scss"
 import Directory from "../../components/directory/directory.component";
 
 
